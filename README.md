@@ -1,6 +1,6 @@
-# FinancialStatementsScraper
+# Financial Statements Scraper
 
-FinancialStatementsScraper is a powerful tool that extracts data from financial statements in PDF format, transfers the balance sheet values into a database, and transforms the data into informative charts and tables for better understanding and analysis.
+Financial Statements Scraper is a powerful tool that extracts data from financial statements in PDF format, transfers the balance sheet values into a database, and transforms the data into informative charts and tables for better understanding and analysis.
 
 ## Features
 
