@@ -22,7 +22,7 @@ FinancialStatementsScraper is developed using Python, and it leverages the follo
 
 To use FinancialStatementsScraper, ensure you have Python installed on your machine. Then, you can install the required libraries using pip:
 
-'pip install flask flask_sqlalchemy tabula-py matplotlib pandas'
+```pip install flask flask_sqlalchemy tabula-py matplotlib pandas```
 
 After installing the dependencies, you can run the Flask application, upload the PDF file from your local computer via the web interface, and start analyzing the data visualized in charts and tables.
 
